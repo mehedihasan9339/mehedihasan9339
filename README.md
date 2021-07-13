@@ -36,7 +36,7 @@ Software Developer with a strong ability to quickly cope up with any new environ
 
 
 <h4 align="center">
-  <i>A good code is like a story, not a puzzle.</i>
+  <i><u>A good code is like a story, not a puzzle.<u></i>
   <br/>
 </h4>
 
