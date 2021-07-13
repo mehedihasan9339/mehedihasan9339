@@ -20,7 +20,7 @@ Software Developer with a strong ability to quickly cope up with any new environ
 </p>
   <br>
   <p>
-  <b align="center">Full Stack Development ||  .Net Technologies</b>
+  <h5 align="center"><b>Full Stack Development ||  .Net Technologies</b></h5>
 </p>
 </div>
 <br />
