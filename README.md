@@ -20,6 +20,7 @@ Software Developer with a strong ability to quickly cope up with any new environ
 </p>
 </div>
 <br />
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
 
 ##  🎉 Skills  🎉
