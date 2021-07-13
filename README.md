@@ -35,10 +35,9 @@ Software Developer with a strong ability to quickly cope up with any new environ
 - **Others**: Fiddler, Postman, Resharper, Markdown
 
 
-<p align="center">
-  <h4><i>A good code is like a story, not a puzzle.</i></h4>
+<h4 align="center">
+  <i>A good code is like a story, not a puzzle.</i>
   <br/>
-<-- <img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/> -->
-</p>
+</h4>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
