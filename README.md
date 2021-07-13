@@ -35,9 +35,8 @@ Software Developer with a strong ability to quickly cope up with any new environ
 - **Source Control**: Github, Bit Bucket
 - **Others**: Fiddler, Postman, Resharper, Markdown
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)](https://github.com/mehedihasan9339)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)
 
 
 <h4 align="center">
