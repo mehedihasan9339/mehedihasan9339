@@ -11,33 +11,28 @@
 
 <br>
 
-
-
-
 <div>
  <p>
 Software Developer with a strong ability to quickly cope up with any new environment and technology. I am fully committed, responsible, result-oriented, and eager to learn. Interested in working with an organization where my success is valued through appreciation, criticism, motivation, hard-working, dynamism as well as the organizations’ success.
 </p>
-  <br>
   <p>
-  <h5 align="center"><b>Full Stack Development ||  .Net Technologies</b></h5>
+  <h4 align="center"><b>Full Stack Development ||  .Net Technologies || Angular || Database Design || Full Cycle Development || UI Development || Debugging || Programming/Coding || Team Player || Quick Learner || Problem Solver</b></h4>
 </p>
 </div>
 <br />
 
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C, C++, Java
+- **FrontEnd**: HTML5, CSS3, Bootstrap, Angular JS, Angular, JavaScript, JQuery, Ajax, JSON
+- **BackEnd**: C#.NET, ASP.NET MVC, ASP.NET Core, LINQ, UWP, ADO.NET
+- **Web Service**: Web API, WCF
+- **ORM**: Entity Framework
+- **Database**: MS SQL Server
+- **Designing Tools**: UML
+- **Reporting**: Crystal Reports
+- **IDE**: Visual Studio, Visual Studio Code, Brackets, Sublime Text
+- **Source Control**: Github, Bit Bucket
+- **Others**: Fiddler, Postman, Resharper, Markdown
 
 
 
