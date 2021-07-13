@@ -16,12 +16,12 @@
 
 <div>
  <p>
-
 Software Developer with a strong ability to quickly cope up with any new environment and technology. I am fully committed, responsible, result-oriented, and eager to learn. Interested in working with an organization where my success is valued through appreciation, criticism, motivation, hard-working, dynamism as well as the organizations’ success.
-
-</h4>
+</p>
+  <br>
+  
 </div>
-
+ **Full Stack Development ||  .Net Technologies**
 <br />
 
 
