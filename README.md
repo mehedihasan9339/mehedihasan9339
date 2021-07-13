@@ -2,13 +2,6 @@
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-
-
-
-
 <!--
 **ApurvShah007/ApurvShah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -24,6 +17,22 @@ I am always on the lookout for new projects to work on and new people to collabo
 </div>
 
 <br />
+
+
+##  🎉 Skills  🎉
+- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
+- **BackEnd**: Go, Node.js, Express
+- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
+- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
+- **Mobile**: React Native
+- **Bots**: Botkit, Rasa
+- **UI Frameworks**: Material-UI, Bootstrap
+- **Web technologies**: HTML5, CSS3, ES7+, a11y
+- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
+- **Misc**: Git, Eslint, Prettier, Typescript
+- **Languages**: C, C++, Java
+
+
 
 **Languages I have used**
 
@@ -105,18 +114,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 
 
-##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C, C++, Java
+
 
 
 
