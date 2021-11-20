@@ -31,10 +31,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 - **ORM**: Entity Framework
 - **Database**: MS SQL Server
 - **Designing Tools**: UML
-- **Reporting**: Crystal Reports
+- **Reporting**: Crystal Reports, RDLC, HTML2PDF(Report)
 - **IDE**: Visual Studio, Visual Studio Code, Brackets, Sublime Text
 - **Source Control**: Github, Bit Bucket
-- **Others**: Fiddler, Postman, Resharper, Markdown
+- **Others**: Fiddler, Postman, Swagger, Resharper, Markdown
 
 [![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)](https://github.com/mehedihasan9339)
 
