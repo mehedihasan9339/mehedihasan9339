@@ -38,15 +38,38 @@ Software Developer with a strong ability to quickly cope up with any new environ
 
 
 <h1 align="center">My Hot Repos</h1>
-<table>
-  <tbody>
-    <tr>
-      <td width="50%" rowspan="4">
-        <a href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI"><img style="width: 300px; height: 100px;" alt="Photo" src="https://www.iconpacks.net/icons/2/free-random-icon-3814-thumb.png" /></a>
-      </td>
-    </tr>
-  </tbody>
+<table style="width:100%; border-spacing: 20px;">
+  <tr>
+    <!-- Card -->
+    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 100%;">
+      <h3 style="margin-top: 0;">
+        <a href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI" style="text-decoration: none; color: #000;">CQRSMediatRWebAPI</a>
+      </h3>
+      <p>A Web API project implementing CQRS pattern using MediatR.</p>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
+    </td>
+    <!-- Card -->
+    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 100%;">
+      <h3 style="margin-top: 0;">
+        <a href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI" style="text-decoration: none; color: #000;">CQRSMediatRWebAPI</a>
+      </h3>
+      <p>A Web API project implementing CQRS pattern using MediatR.</p>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
+    </td>
+    <!-- Card -->
+    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 100%;">
+      <h3 style="margin-top: 0;">
+        <a href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI" style="text-decoration: none; color: #000;">CQRSMediatRWebAPI</a>
+      </h3>
+      <p>A Web API project implementing CQRS pattern using MediatR.</p>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
+    </td>
+  </tr>
 </table>
+
 
 
 
