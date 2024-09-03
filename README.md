@@ -37,45 +37,23 @@ Software Developer with a strong ability to quickly cope up with any new environ
 - **Others**: Fiddler, Postman, Swagger, Resharper, Markdown
 
 
-<h1 align="center">My Hot Repos</h1>
-<table style="width:100%; border-spacing: 40px;">
-  <tr>
-    <!-- Card -->
-    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 30%; border: 3px solid darkblue;">
-      <h3 style="margin-top: 0;">
-        <a target="_blank" href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI" style="text-decoration: none; color: #000;">CQRSMediatRWebAPI</a>
-      </h3>
-      <p>A Web API project implementing CQRS pattern using MediatR.</p>
-      <hr style="border: none; border-top: 1px solid #000;">
-      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
-    </td>
-    <!-- Card -->
-    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 30%; border: 3px solid darkblue;">
-      <h3 style="margin-top: 0;">
-        <a target="_blank" href="https://github.com/mehedihasan9339/RabbitMQService" style="text-decoration: none; color: #000;">RabbitMQService</a>
-      </h3>
-      <p>A Web API project implementing RabbitMQ.</p>
-      <hr style="border: none; border-top: 1px solid #ccc;">
-      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, RabbitMQ</p>
-    </td>
-    <!-- Card -->
-    <td style="background-color:#f5f5f5; border-radius:10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 30%; border: 3px solid darkblue;">
-      <h3 style="margin-top: 0;">
-        <a target="_blank" href="https://github.com/mehedihasan9339/TodoApi-PostGreeSql" style="text-decoration: none; color: #000;">TodoApi-PostGreeSql</a>
-      </h3>
-      <p>A Web API project implementing PostGreeSql.</p>
-      <hr style="border: none; border-top: 1px solid #ccc;">
-      <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, PostGreeSql</p>
-    </td>
-  </tr>
-</table>
+##  🎉 My Hot Repos  🎉
 
+### [JustCode](https://github.com/mehedihasan9339/JustCode)
+<p>A Programming Problem Solving Repo.</p>
 
+### [CQRSMediatRWebAPI](https://github.com/mehedihasan9339/CQRSMediatRWebAPI)
+<p>A Web API project implementing CQRS pattern using MediatR.</p>
+<p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
 
+### [RabbitMQService](https://github.com/mehedihasan9339/RabbitMQService)
+<p>A Web API project implementing RabbitMQ.</p>
+<p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, RabbitMQ</p>
 
+### [TodoApi-PostGreeSql](https://github.com/mehedihasan9339/TodoApi-PostGreeSql)
+<p>A Web API project implementing PostGreeSql.</p>
+<p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, PostGreeSql</p>
 
-
-[![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)](https://github.com/mehedihasan9339)
 
 
 
