@@ -36,6 +36,22 @@ Software Developer with a strong ability to quickly cope up with any new environ
 - **Source Control**: Github, Bit Bucket
 - **Others**: Fiddler, Postman, Swagger, Resharper, Markdown
 
+
+<h1 align="center">My Hot Repos</h1>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" rowspan="4">
+        <a href="https://github.com/mehedihasan9339/CQRSMediatRWebAPI"><img style="width: 300px; height: 100px;" alt="Photo" src="https://www.iconpacks.net/icons/2/free-random-icon-3814-thumb.png" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 [![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan9339&count_private=true)](https://github.com/mehedihasan9339)
 
 
