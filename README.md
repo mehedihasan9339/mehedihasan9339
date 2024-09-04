@@ -54,6 +54,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Web API project implementing PostGreeSql.</p>
 <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, PostGreeSql</p>
 
+### [CSharp11Special](https://github.com/mehedihasan9339/CSharp11Special)
+<p>A Console application with latest updates of c# 11.</p>
+<p style="color: #666; font-size: 12px;">Technologies: .NET Console, C#</p>
+
 
 
 
