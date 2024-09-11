@@ -71,6 +71,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Simple Repository where i practice basics of Python</p>
 <p style="color: #666; font-size: 12px;">Technologies: Python3</p>
 
+### [MHBasicMethods](https://github.com/mehedihasan9339/MHBasicMethods)
+<p>A Dot Net Core Nuget Package where you find Basic Methods.</p>
+<p style="color: #666; font-size: 12px;">Technologies: C#</p>
+
 
 
 <h4 align="center">
