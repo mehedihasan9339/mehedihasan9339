@@ -75,6 +75,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Dot Net Core Nuget Package where you find Basic Methods.</p>
 <p style="color: #666; font-size: 12px;">Technologies: C#</p>
 
+### [OracleEfCoreProject](https://github.com/mehedihasan9339/OracleEfCoreProject)
+<p>A Basic Asp.Net Core Web Api Project Setup using Oracle Database Connection using EF Core.</p>
+<p style="color: #666; font-size: 12px;">Technologies: ASP.NET Core, C#, Oracle 12c Database, SQL Developer</p>
+
 
 
 <h4 align="center">
