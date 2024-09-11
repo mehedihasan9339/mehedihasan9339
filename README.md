@@ -63,6 +63,14 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Basic Web API using ASP.NET Core with MSSQL Server and Docker</p>
 <p style="color: #666; font-size: 12px;">Technologies: .NET Core Web API, MS SQL Server, Docker, C#</p>
 
+### [Java-Practice](https://github.com/mehedihasan9339/Java-Practice)
+<p>A Simple Repository where i practice basics of Java</p>
+<p style="color: #666; font-size: 12px;">Technologies: JAVA</p>
+
+### [Python-Practice](https://github.com/mehedihasan9339/Python-Practice)
+<p>A Simple Repository where i practice basics of Python</p>
+<p style="color: #666; font-size: 12px;">Technologies: Python3</p>
+
 
 
 <h4 align="center">
