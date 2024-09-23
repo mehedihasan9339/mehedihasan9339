@@ -83,6 +83,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Basic Asp.Net Core Web Api Project Setup using MongoDB Database Connection using EF Core.</p>
 <p style="color: #666; font-size: 12px;">Technologies: ASP.NET Core, C#, MongoDB Database, MongoDB Compass</p>
 
+### [QrCodeApp](https://github.com/mehedihasan9339/QrCodeApp)
+<p>A QR Code Generator App where you can generate various types of QR Code with different colors.</p>
+<p style="color: #666; font-size: 12px;">Technologies: ASP.NET Core, C#, jQuery, HTML5, Bootstrap 4.4</p>
+
 
 
 
