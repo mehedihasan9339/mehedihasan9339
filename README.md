@@ -87,6 +87,10 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A QR Code Generator App where you can generate various types of QR Code with different colors.</p>
 <p style="color: #666; font-size: 12px;">Technologies: ASP.NET Core, C#, jQuery, HTML5, Bootstrap 4.4</p>
 
+### [Server Side Pagination](https://github.com/mehedihasan9339/ServerSidePaginationApp)
+<p>A Simple Project where server side pagination has been implemented (Static, Dynamic, API).</p>
+<p style="color: #666; font-size: 12px;">Technologies: ASP.NET Core, C#, MS SQL Server, jQuery, HTML5, Bootstrap 4.4</p>
+
 
 
 
