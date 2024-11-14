@@ -46,7 +46,7 @@ Software Developer with a strong ability to quickly cope up with any new environ
 <p>A Web API project implementing CQRS pattern using MediatR.</p>
 <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, MediatR</p>
 
-### [RabbitMQService](https://github.com/mehedihasan9339/RabbitMQService)
+### [RabbitMQDemo](https://github.com/mehedihasan9339/RabbitMQDemo)
 <p>A Web API project implementing RabbitMQ.</p>
 <p style="color: #666; font-size: 12px;">Technologies: .NET Core, C#, RabbitMQ</p>
 
